@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Dec 13 18:18:07 2023
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : sd_irrigador
+Top-level Entity Name : sd_irrigador
+Family : Cyclone II
+Total logic elements : 27
+    Total combinational functions : 25
+    Dedicated logic registers : 17
+Total registers : 17
+Total pins : 46
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
